@@ -830,19 +830,22 @@ img {
 
     @media (min-width: 0px) {
       .section {
-        margin: auto 2rem;
+        padding: 0rem 2rem;
+        margin:auto;
       }
     }
 
     @media (min-width: 500px) {
       .section {
-        margin: auto 5rem;
+        padding: 0rem 5rem;
+        margin:auto;
       }
     }
 
-    @media (min-width: 900px) {
+    @media (min-width: 1000px) {
       .section {
-        margin: auto 10rem;
+        padding: 0rem 8rem;
+        margin: auto;
       }
     }
 
