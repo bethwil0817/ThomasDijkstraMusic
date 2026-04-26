@@ -26,9 +26,9 @@ jobs:
       - run: npm install
       - run: mkdir -p docs
       - run: npm run build
-      - run: cp src/index.html docs/
-      - run: cp -r src/images docs/ 2>/dev/null || true
-      - run: cp -r src/style docs/ 2>/dev/null || true
+      - run: cp index.html docs/
+      - run: cp -r images docs/ 2>/dev/null || true
+      - run: cp -r style docs/ 2>/dev/null || true
       
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
