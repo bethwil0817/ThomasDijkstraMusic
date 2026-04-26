@@ -15,7 +15,7 @@
 </head>
 <body>
   <div class="navContainer">
-  <nav class="shadow-md" style="height: 120px; background-color: rgba(255, 255, 255, 0.25)">
+  <nav class="shadow-md" style="height: 120px; background-color: rgba(255, 255, 255, 0.15)">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 section" style="height: 120px;">
       <div class="flex justify-between h-16" style="height: 100%">
         <!-- Logo -->
@@ -40,7 +40,7 @@
       </div>
     </div>
     <!-- Mobile Menu -->
-    <div id="mobile-menu" class="md:hidden hidden px-2 pt-2 pb-3 space-y-1 transition-all " style="padding-left: 3rem; background-color: white; opacity: 0.5; background-size: cover;">
+    <div id="mobile-menu" class="md:hidden hidden px-2 pt-2 pb-3 space-y-1 transition-all " style="padding-left: 3rem; background-color: #e4be9b; opacity: 0.6; background-size: cover;">
       <div style="height: 100%">
         <a id="mobileLink" href="#music" class="blinker-regular block px-3 py-4 rounded-md text-base font-medium text-gray-700 hover:text-[#a25100]">Music</a>
         <a id="mobileLink" href="#contact" class="blinker-regular block px-3 py-4 rounded-md text-base font-medium text-gray-700 hover:text-[#a25100]">Contact</a>
@@ -49,12 +49,12 @@
     </div>
   </nav>
   </div>
-
-  <div id="about" class="bg-black" style="background-color: black;">
+  <div class="bg-gradient"></div>
+  <div id="about" class="animation-back">
     <div id="animate-in" class="rubik-regular" style="color: white; padding: 0rem 1rem; font-size: 3rem; margin: auto; text-align: center; letter-spacing: 1rem;">
       THOMAS DIJKSTRA MUSIC
     </div>
-    <div class="bg-black" style="padding: 2rem;">
+    <div style="padding: 2rem;">
       <div class="image-hover-container">
         <div id="animate-in" class="image" style="margin-left: 1rem; margin-right: 1rem;">
           <img style="height: 375px; object-fit: cover; width: 100%;" src="images/Thom1.png"/>
@@ -121,7 +121,7 @@
           </div>
         </div>
     </div>
-    <div id="contact" style="background-image: url('images/Background.jpg'); background-size: cover; background-attachment: fixed; background-blend-mode:darken; width:100%; height: 100%;">
+    <div id="contact" style="background-image: url('images/Background.jpg'); z-index: 2; background-size: cover; background-attachment: fixed; background-blend-mode:darken; width:100%; height: 100%;">
       <div class="section" style="background-color: black; opacity: 0.5; height: 100%">
         <div class="rubik-regular" style="color: white; text-align: center; font-size: 3rem; padding-top: 2rem; margin-bottom: 2rem;">SOCIALS & BOOKING</div>
         <div id="animate-in" style="gap: 2.5rem; display: flex; flex-wrap: wrap; margin: 0 6rem; justify-content: center;">
@@ -166,14 +166,11 @@
             </div>
           </form>
         </div>
+         <div style="color: white; text-align: center; margin: 2rem; padding-bottom: 2rem;">
+          Thomas Dijkstra Music © 2025 Beth Willner. All Rights Reserved.
+          </div>
     </div>
     </div>
-    </div>
-      <div style="color: white; text-align: center; margin: 2rem; padding-bottom: 3rem;">
-        Thomas Dijkstra Music © 2025 Beth Willner. All Rights Reserved.
-      </div>
-      <div>
-      </div>
   </div>
 
   <script>
