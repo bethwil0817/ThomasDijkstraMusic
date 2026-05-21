@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2026-05-25",
+        "prettyDate": "May 25th",
+        "address": "224 W Main St, Hortonville, WI",
+        "time": "4PM - 7PM",
+        "company": "Heritage Inn"
+    },
+    {
+        "date": "2026-07-24",
+        "prettyDate": "July 24th",
+        "address": "514 E Main St, Waupun, WI",
+        "time": "6PM - 9PM",
+        "company": "Hoya Hop House Brewing"
+    }
+]
