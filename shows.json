@@ -7,18 +7,18 @@
 		"company": "Appleton Yacht Club"
 	},
 	{
-		"date": "2026-06-21",
-		"prettyDate": "June 21st",
-		"address": "N9003 Town Line Rd, Kewaskum, WI 53040",
-		"time": "5PM - 8:30PM",
-		"company": "Bridget Center"
-	},
-	{
 		"date": "2026-06-20",
 		"prettyDate": "June 20th",
 		"address": "219 N Main St, Waupaca, WI 54981",
 		"time": "6:30PM - 9:30PM",
 		"company": "Empty Barrel Distillery"
+	},
+	{
+		"date": "2026-06-21",
+		"prettyDate": "June 21st",
+		"address": "N9003 Town Line Rd, Kewaskum, WI 53040",
+		"time": "5PM - 8:30PM",
+		"company": "Bridget Center"
 	},
     {
         "date": "2026-07-24",
