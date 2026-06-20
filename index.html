@@ -210,6 +210,9 @@
       shows.map((data) => {
         const targetDate = new Date(data.date);
         const today = new Date();
+
+        targetDate.setHours(0, 0, 0, 0);
+        today.setHours(0, 0, 0, 0);
     
         if (targetDate >= today ) {
           const listSection = document.createElement('div');
