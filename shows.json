@@ -1,30 +1,16 @@
 [
-    {
-		"date": "2026-06-15",
-		"prettyDate": "June 15th",
-		"address": "1200 S Lutz Dr, Appleton, WI 54914",
+	{
+		"date": "2026-07-24",
+		"prettyDate": "July 24th",
+		"address": "514 E Main St, Waupun, WI",
 		"time": "6PM - 9PM",
-		"company": "Appleton Yacht Club"
+		"company": "Hoya Hop House Brewing"
 	},
 	{
-		"date": "2026-06-20",
-		"prettyDate": "June 20th",
-		"address": "219 N Main St, Waupaca, WI 54981",
+		"date": "2026-08-29",
+		"prettyDate": "August 29th",
+		"address": "219 N Main St, Waupaca, WI",
 		"time": "6:30PM - 9:30PM",
 		"company": "Empty Barrel Distillery"
-	},
-	{
-		"date": "2026-06-21",
-		"prettyDate": "June 21st",
-		"address": "N9003 Town Line Rd, Kewaskum, WI 53040",
-		"time": "5PM - 8:30PM",
-		"company": "Bridget Center"
-	},
-    {
-        "date": "2026-07-24",
-        "prettyDate": "July 24th",
-        "address": "514 E Main St, Waupun, WI",
-        "time": "6PM - 9PM",
-        "company": "Hoya Hop House Brewing"
-    }
+	}
 ]
