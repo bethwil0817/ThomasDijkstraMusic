@@ -7,6 +7,20 @@
 		"company": "Hoya Hop House Brewing"
 	},
 	{
+		"date": "2026-07-25",
+		"prettyDate": "July 25th",
+		"address": "10964 Co Hwy C, Hillsboro, WI",
+		"time": "4PM - 7PM",
+		"company": "The Still Pub and Grill"
+	},
+	{
+		"date": "2026-08-01",
+		"prettyDate": "August 1st",
+		"address": "415 W College Ave, Appleton, WI",
+		"time": "12PM - 3PM",
+		"company": "Appleton Cigar Co."
+	},
+	{
 		"date": "2026-08-29",
 		"prettyDate": "August 29th",
 		"address": "219 N Main St, Waupaca, WI",
