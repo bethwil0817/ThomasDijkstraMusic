@@ -1,30 +1,16 @@
 [
 	{
-		"date": "2026-07-24",
-		"prettyDate": "July 24th",
-		"address": "514 E Main St, Waupun, WI",
-		"time": "6PM - 9PM",
-		"company": "Hoya Hop House Brewing"
+		"date": "2026-09-05",
+		"prettyDate": "September 5th",
+		"address": "4394 Twin Overlook, Conover, WI",
+		"time": "5PM - 8PM",
+		"company": "Dublin Sports Bar and Grill"
 	},
 	{
-		"date": "2026-07-25",
-		"prettyDate": "July 25th",
-		"address": "10964 Co Hwy C, Hillsboro, WI",
-		"time": "4PM - 7PM",
-		"company": "The Still Pub and Grill"
-	},
-	{
-		"date": "2026-08-01",
-		"prettyDate": "August 1st",
-		"address": "415 W College Ave, Appleton, WI",
-		"time": "12PM - 3PM",
-		"company": "Appleton Cigar Co."
-	},
-	{
-		"date": "2026-08-29",
-		"prettyDate": "August 29th",
-		"address": "219 N Main St, Waupaca, WI",
-		"time": "6:30PM - 9:30PM",
-		"company": "Empty Barrel Distillery"
+		"date": "2026-09-19",
+		"prettyDate": "September 19th",
+		"address": "E6426 Symco Rd, Manawa, WI",
+		"time": "7PM",
+		"company": "Union Still Bar & Grill"
 	}
 ]
