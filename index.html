@@ -207,14 +207,15 @@
         const listSection = document.createElement('div')
       })
 
-      shows.map((data) => {
-        const targetDate = new Date(data.date);
-        const today = new Date();
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
 
+      shows.map((data) => {
+        const [year, month, day] = data.date.split('-').map(Number);
+        const targetDate = new Date(year, month - 1, day);
         targetDate.setHours(0, 0, 0, 0);
-        today.setHours(0, 0, 0, 0);
     
-        if (targetDate >= today ) {
+        if (targetDate.getTime() === today.getTime()) {
           const listSection = document.createElement('div');
           listSection.id = "showList";
           const time = document.createElement('h5')
