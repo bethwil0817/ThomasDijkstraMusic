@@ -215,7 +215,7 @@
         const targetDate = new Date(year, month - 1, day);
         targetDate.setHours(0, 0, 0, 0);
     
-        if (targetDate.getTime() === today.getTime()) {
+        if (targetDate.getTime() >= today.getTime()) {
           const listSection = document.createElement('div');
           listSection.id = "showList";
           const time = document.createElement('h5')
